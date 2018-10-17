@@ -1,0 +1,29 @@
+
+#logo {
+    height: 50px;
+    box-shadow: none;
+}
+
+.examples {
+    height: 100px;
+}
+
+h1 {
+    color: deeppink;
+    border: 2px green solid;
+    padding-left: 12px;
+    margin-right: 250px;
+}
+
+h2 {
+    color: limegreen
+}
+
+h3 {
+    color: limegreen
+}
+
+html {
+    color: deeppink;
+
+}
